@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Kam Lasater - Learning how to be a developer
 locale:           en_US
 url:
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Kam Lasater
+  avatar: headshot.png
   bio: "Describe your self."
-  email:
+  email: ckl@seekayel.com
   disqus-shortname:
-  twitter: #username
+  twitter: @seekayel
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: @seekayel
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: kam.lasater
   xing: #username
   instagram: #username
   lastfm: #username
