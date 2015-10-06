@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: "Kam Lasater - Learning how to be a better developer"
+title: "Kam Lasater - Becoming Better"
 locale: en_US
-url: seekayel.com
+url: http://seekayel.com
 
 
 # Jekyll configuration
@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: Kam Lasater
   avatar: headshot.png
-  bio: "Describe your self."
+  bio: "Working on being a better version of myself"
   email: ckl@seekayel.com
   disqus-shortname:
-  twitter: "@seekayel"
+  twitter: "seekayel"
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: "@seekayel"
+  github: "seekayel"
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: kam.lasater
+  linkedin: kamlasater
   xing: #username
   instagram: #username
   lastfm: #username
